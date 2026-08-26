@@ -1,0 +1,6 @@
+{
+  "name": "Souza & Souza Imóveis - Colombo e Região Metropolitana",
+  "description": "Imobiliária em Colombo, Curitiba e Região Metropolitana. Venda, locação, administração de imóveis e avaliação pericial com mais de 9 anos de experiência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
